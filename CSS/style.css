@@ -1,0 +1,115 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Crimson Text", serif;
+}
+h1 {
+  margin: 60px auto 0px auto;
+  font-family: "Alex Brush", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+h2 {
+  font-family: "Zen Antique Soft", serif;
+  font-weight: normal;
+  color: #66bfbf;
+}
+h3 {
+  color: #11999E;
+  font-family: "Zen Antique Soft", serif;
+}
+a {
+  color: #11999e;
+  margin: 30px;
+  font-weight: 800;
+  font-size: 16px;
+  text-decoration: none;
+
+}
+.credits{
+    color:#EAF6F6;
+    margin-top:40px;
+}
+.skills {
+  width: 50%;
+  margin: auto;
+}
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  margin: 100px 10px 100px auto;
+}
+p {
+  font-size: 1.2rem;
+  font-weight: 800;
+ color: #40514E;
+
+}
+.info {
+  width: 50%;
+  margin: auto;
+}
+
+.description {
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+}
+hr {
+  border: none;
+  border-top: 6px dotted #EAF6F6;
+  width: 5%;
+  size: 10px;
+  margin: 80px auto;
+  /* height:1px; */
+}
+.myprofile {
+  width: 200px;
+  margin-top: 2rem;
+  border-radius: 150%;
+}
+.programing {
+  width: 200px;
+  float: left;
+  /* padding:0px 0px 10px 0px; */
+  margin: 0px 26px 0px 0px;
+}
+.content-writing {
+  width: 200px;
+  float: right;
+margin-left: 32px;}
+
+.middle-container {
+}
+.bottom-container {
+    background-color: #66BFBF;
+    height:80px;
+    padding:50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 217px;
+  top: 457px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 400px;
+  top: 60px;
+}
+button{
+    width: 10%;
+    color: white;
+    background-color: #28c2c2;
+    height: 45px;
+    border-radius: 9px;
+    border:none;
+    font-size: 1rem;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    margin: 60px auto;
+}
